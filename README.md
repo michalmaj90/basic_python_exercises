@@ -1,6 +1,8 @@
 # Basic_python_exercises
+This repo consists of exercises from https://www.practicepython.org/
 
-## What for
-This repo was created to put exercises from https://www.practicepython.org/, which I've been doing to practise my basic python skills.
+## What for?
+The excercises makes me practise my basic python skills.
+
 
 
